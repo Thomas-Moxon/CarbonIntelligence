@@ -1,4 +1,4 @@
-# Carbon Perfromance Dashboard w/ Power Bi
+# Carbon Intelligence Dashboard w/ Power Bi
 
 ![Dashboard Analytics Page](/Images/Clipped_Analytics_Page_Image_2.png)
 
